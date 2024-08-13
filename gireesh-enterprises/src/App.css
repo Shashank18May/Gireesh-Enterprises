@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+section {
+  padding: 20px;
+}
+
+.service-category {
+  margin: 20px 0;
+}
+
+.service {
+  margin: 15px 0;
+}
+
+.contact-details {
+  margin-top: 20px;
+}
+
+.newsletter {
+  margin-top: 20px;
+}
